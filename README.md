@@ -1,6 +1,7 @@
 ### 推荐领域paper
 #### 冷启动方向
 1. Neural Collabarative Reasoning https://arxiv.org/pdf/2005.08129.pdf, 这是将逻辑推理加入nn的训练当中，是从“感知”perception 到“认知”recognition的一个重要的工作
+2. Warm Up Cold-start Advertisements: Improving CTR Predictions via Learning to Learn ID Embeddings https://arxiv.org/pdf/1904.11547.pdf 基于meta-learning的思路来为新品训练embedding，对少样本更加的友好
 
 #### 用户兴趣方向
 1. Multi-Interest Network with Dynamic Routing for Recommendation at Tmall https://arxiv.org/pdf/1904.08030.pdf ， 这个是利用hilton的capsule network做的兴趣聚类的工作
