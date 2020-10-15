@@ -10,6 +10,7 @@
 2. User Behavior Retrieval for Click-Through Rate Prediction https://arxiv.org/pdf/2005.14171.pdf， 这个是sigir20年的一篇paper，讲使用memory nwtwork来建模用户长期兴趣的，可以搭配sigir18年的一篇Improving Sequential Recommendation with Knowledge-Enhanced Memory Networks https://ata2.cn-hangzhou.oss-cdn.aliyun-inc.com/acm/10.1145_3209978.3210017.pdf?spm=ata.13269422.0.0.d9c14853Fwsqmh&OSSAccessKeyId=5brTYsCF9kNTYdU5&Expires=1595302778&Signature=nN4vOYxhvB%2FAZsjGFQBF%2BN6xsdM%3D  来一起看  
 3. Search-based User Interest Modeling with Lifelong Sequential Behavior Data for Click-Through Rate Prediction  https://arxiv.org/pdf/2006.05639.pdf 阿里广告paper1
 4. MIMN: Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction https://arxiv.org/pdf/1905.09248.pdf 阿里广告paper2
+5. Learning Disentangled Representations for Recommendation https://arxiv.org/pdf/1910.14238.pdf 直观的思想就是学习两个相对来说解耦的向量，一个能够反映出用户的宏观的兴趣，比如要买某一类东西，另外一个是之前的通过用户的点击交互行为学出来的微观的向量，有了宏观的向量之后，用户的embedding表示会更加的鲁棒，可解释性也会变强
 
 #### 公平性方向
 1. Controlling Fairness and Bias in Dynamic Learning-to-Rank https://dl.acm.org/doi/pdf/10.1145/3397271.3401100 这个是SIRIR2020的best paper
