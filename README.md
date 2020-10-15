@@ -14,3 +14,7 @@
 
 #### 公平性方向
 1. Controlling Fairness and Bias in Dynamic Learning-to-Rank https://dl.acm.org/doi/pdf/10.1145/3397271.3401100 这个是SIRIR2020的best paper
+
+### 推荐领域公开数据集
+#### 冷启动方向
+1. http://jmcauley.ucsd.edu/data/amazon/ 该数据集有用户的id， 买的东西的id， 1-5的评分， 同时有商品的一些属性的特征可以作为简单的feature，比如 价格等
