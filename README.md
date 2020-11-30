@@ -31,3 +31,4 @@
 ### 其他一些工具网页
 1. pandas教程，是我看的写的很好的 https://data36.com/pandas-tutorial-3-important-data-formatting-methods-merge-sort-reset_index-fillna/
 2. 做论文图需要一些矢量的icon。 https://www.iconfont.cn/plus/collections/index?spm=a313x.7781069.1998910419.3.IwAAti
+3. tensrflow on jupyter https://sdsawtelle.github.io/blog/output/getting-started-with-tensorflow-in-jupyter.html
