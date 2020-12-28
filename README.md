@@ -1,6 +1,7 @@
 ### 推荐领域paper
 #### 点击率预估
 1. CAN: Revisiting Feature Co-Action for Click-Through Rate Prediction https://arxiv.org/pdf/2011.05625.pdf， 阿里广告部门做的大规模的特征交叉，主要是target id和seq id做交叉，线上有一定提升
+2. 现阶段工业界大规模的ctr预估模型都是用了超长seq来做self-attention或者target attention，如何能够快速的在超长seq中找到topk相似的item能够极大的提高效率和效果。simhash是一个比较好用的算法，google的原始paper在这里 https://www2007.org/papers/paper215.pdf 
 #### 冷启动方向
 1. Neural Collabarative Reasoning https://arxiv.org/pdf/2005.08129.pdf, 这是将逻辑推理加入nn的训练当中，是从“感知”perception 到“认知”recognition的一个重要的工作
 2. Warm Up Cold-start Advertisements: Improving CTR Predictions via Learning to Learn ID Embeddings https://arxiv.org/pdf/1904.11547.pdf 基于meta-learning的思路来为新品训练embedding，对少样本更加的友好
