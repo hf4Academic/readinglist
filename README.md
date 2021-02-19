@@ -35,3 +35,5 @@
 1. pandas教程，是我看的写的很好的 https://data36.com/pandas-tutorial-3-important-data-formatting-methods-merge-sort-reset_index-fillna/
 2. 做论文图需要一些矢量的icon。 https://www.iconfont.cn/plus/collections/index?spm=a313x.7781069.1998910419.3.IwAAti
 3. tensrflow on jupyter https://sdsawtelle.github.io/blog/output/getting-started-with-tensorflow-in-jupyter.html
+4. ijcai的faq集合。 对于了解会议的审稿拒稿要求和流程有帮助，建议看一下。
+5. 画图的latex命令,涉及pgfplot和tikz：https://github.com/FeiSun/LaTeX-Drawing
